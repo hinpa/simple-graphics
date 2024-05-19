@@ -1,0 +1,5 @@
+# dummy make
+
+dummy:
+
+clean:
